@@ -12,7 +12,9 @@
 <h3>Installation</h3>
 
 Quest sms is very easy to use and install. Download or clone  questsms package from the git hub link below.
-https://github.com/kikuyu1/quest-api-java
+https://github.com/kikuyu1/quest-api-java.
+
+Create an account with <a href="https://questdesigners.com">Quest website Developers Ltd</a> at http://account.questdesigners.com.
 
 All you need to do now is to Include Quest the questsms package in your project 
 
