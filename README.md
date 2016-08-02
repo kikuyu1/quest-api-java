@@ -1,6 +1,7 @@
 #Questsms Bulk SMS API JAVA
 
-Table of contents
+<h4>Table of contents</h4>
+
 1. Installation 
 2. Sending sms
 3. Checking Balance 
