@@ -102,7 +102,7 @@ ScheduleSMS is similar to send sms except it has one additional field
 
 <pre>sendondate = “shedule date”</pre>
 
-The sendondate on date should contain date in future with the following format “YYYY-mm-dd H:M:S”
+The sendondate on date should contain date in future with the following format <strong>“YYYY-mm-dd H:M:S”</strong>
 
 To send sms you need to follow these 3 simple steps
 <h4>1. Import ScheduleSMS class from questsms package</h4>
@@ -149,7 +149,7 @@ Example of SendSms instance is
 
 <pre>Sendondate = “shedule date”</pre>
 
-ScheduleSMS sms = new ScheduleSMS("username", "your key", "sender 	id", "List ", 	"message","2017-07-27 11:11:04");
+<pre>ScheduleSMS sms = new ScheduleSMS("username", "your key", "sender 	id", "List ", 	"message","2017-07-27 11:11:04");</pre>
 
 <h4>3. The final step is to call the schedule() sms method</h4>
 
